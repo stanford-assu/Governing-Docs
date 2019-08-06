@@ -1,0 +1,24 @@
+{
+    "docs": [
+        {
+            "name": "Constitution",
+            "path": "Constitution.md"
+        },
+        {
+            "name": "GSC Bylaws",
+            "path": "GSC Bylaws.md"
+        },
+        {
+            "name": "UGS Bylaws",
+            "path": "UGS Bylaws.md"
+        },
+        {
+            "name": "Joint Bylaws",
+            "path": "Joint Bylaws.md"
+        },
+        {
+            "name": "SSE Charter",
+            "path": "SSE Charter.md"
+        }
+    ]
+}
