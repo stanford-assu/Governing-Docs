@@ -1,82 +1,5 @@
 ﻿By-Laws of the Undergraduate Senate
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 TABLE OF CONTENTS
 By-Laws of the Undergraduate Senate        1
 Article I: General        6
@@ -509,35 +432,6 @@ B. Procedure
 3. The US shall certify the election of the candidate with the most evenly distributed vote total among the four classes. In the event of multiple ties, this procedure shall be repeated until all ties are resolved.
 4. In the event the procedure above cannot settle all ties, each candidate involved in an unresolved tie shall be allowed to speak and answer questions before the US. The US shall vote on each tied issue, the result resolving the tie.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Article V: Proposed Judicial Changes
 Section 1: Review of Draft and Proposed Judicial Changes
 A.
@@ -565,15 +459,6 @@ D.
 Draft judicial changes may be provisionally approved or vetoed. Such action shall serve only to indicate to the relevant judicial body the US’s position on the current language of the judicial change.
 E.
 A provisional approval/veto of a draft judicial change binds the US as to eventual approval or rejection of the corresponding proposed judicial change only if the language of the proposed judicial change is identical to the corresponding draft judicial change.
-
-
-
-
-
-
-
-
-
 
 Appendix I: Election Policies
 Section 1: General

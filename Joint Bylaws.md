@@ -1,299 +1,38 @@
-﻿Joint Bylaws of the Associated Students of Stanford University
+﻿# Joint Bylaws of the Associated Students of Stanford University
 
+1. General
+   1. Definitions
+      1. For the remainder of these By-Laws, the Undergraduate Senate shall be abbreviated US.
+      2. The Association legislative bodies shall be the US and GSC.
+      3. References to the Senate by any internal or external document, without specifically referring to the Undergraduate Senate, shall be construed as the Association legislative bodies.
+      4. The undergraduate population shall be those members of the Association who are registered as undergraduates, as well as those coterminal students who choose to be considered as undergraduates.
+      5. The graduate population shall be all members of the Association in graduate or professional degree programs, as well as those coterminal students who choose to be considered as graduate students.
+      6. An Undergraduate Senate agency shall refer to any administrative unit under the sole control of the Undergraduate Senate.
+      7. An Association agency shall refer to any administrative unit under the joint control of the US and GSC.
+      8. A joint Association entity shall refer to any body of the Association that affects both the graduate and undergraduate populations. This shall not include the US and GSC, considered as separate legislative bodies.
+      9. The elected members of the US shall be the fifteen individuals elected by the undergraduate district.
+      10. The voting membership of the US shall consist of the elected members plus the Vice President of the Association.
+      11. The membership of the US shall be the voting members and all ex-officio members of the US.
+      12. An undergraduate student organization shall refer to any student organization whose membership and/or audience is drawn substantially from the undergraduate population.
+      13. A graduate student organization shall refer to any student organization whose membership and/or audience is drawn substantially from the graduate population.
+      14. Elected members of the GSC shall be those who were selected in either a special or general Association election.
+      15. A member of the GSC shall be any member of the graduate population present at a GSC meeting.
+      16. Unless otherwise specified, a vote of the GSC shall be a vote by voting members of the GSC only.
+      17. The term ex-officio as used by any internal document, including the Constitution and all By-Laws, shall be construed as meaning "non-voting."
+      18. The executive officers of the Association shall consist of the President, the Vice-President, the Chair of the US, the Deputy Chair of the US, the Chair of the GSC, the Financial Officer of the GSC, the Chair of the Constitutional Council, and the Financial Manager. The officers of the Association shall consist of the executive officers plus the members of the US, the voting members of the GSC, and the members of the Constitutional Council.
+   2. General Approval Requirements
+      Unless otherwise specified in the Constitution or these By-Laws, for approval requirements the relevant Association legislative bodies shall be: 
+      1. The US, for those matters involving or affecting only members of the undergraduate population. 
+      2. The GSC, for those matters involving or affecting only members of the graduate population. 
+      3. Both the US and the GSC, for those matters involving or affecting members of both the graduate and undergraduate populations.
+   3. Registered Students
+      The ASSU recognizes that only the University Registrar may determine who is a registered student. The ASSU shall grant membership accordingly to those documented by the Registrar. Postdocs shall not be considered members of the ASSU.
+   4. Calendar
+      1. Opening of the Quarter
+         1. The first day of the quarter shall be defined as the first day of registration. In counting days from the opening of the quarter, all days, including Saturdays, Sundays, and holidays, shall be included.
+      2. End of the Quarter
+         1. The last day of the quarter shall be defined as the last day on which final examinations shall be scheduled. In counting days from the end of the quarter, all days, including Saturdays, Sundays, and holidays, shall be included.
 
-________________
-On July 11, 2014 these By-Laws were updated with all known changes.
-John-Lancaster Finley Chair, Administration & Rules Committee 16th Undergraduate Senate, 2014-2015 Session
-
-
-All Known Previous Updates:
-1. April 14, 2009 Adam L Beberg GSC Parliamentarian, 2007-2009
-2. February 20, 2008 Ré Phillips Senate A&R Chair
-3. 14 April 2005 Chris Nguyen Chair, Administration and Rules Committee 6th Undergraduate Senate, 2004-2005 Session
-4. 1 May 2004 Sandeep Wasan Chair, Administration and Rules Committee 5th Undergraduate Senate, 2003-2004 Session
-5. 28 May 2002 Harris Shapiro ASSU Parliamentarian
-6. Winter/Spring 1999 These By-Laws were extracted from the old Senate By-Laws during
-7. February 1999 and refined during March and April 1999. Harris Shapiro Chair, 3rd Graduate Student Council, 1998-1999 Session
-________________
-
-
-Table of Contents
-Table of Contents        3
-Article I: General        9
-Section 1: Definitions        10
-Section 2: General Approval Requirements        11
-Section 3: Registered Students        11
-Section 4: Calendar        11
-A. Opening of the Quarter        11
-B. End of the Quarter        11
-Section 5: Non-Discrimination Statement        12
-Section 6: Precedence of the Association By-Laws        12
-Section 7: Association Policies        12
-A. Definition        12
-B. Modification        12
-C. Minimum Content        13
-Section 8: Association Rules of Order        13
-A. Definition        13
-B. Modification        13
-C. Voting        13
-Section 9: The Usual Guidelines        14
-A. For Notification and Appeal        14
-C. For The Untimely Removal of an Appointed Officer        15
-Article II: Legislative Branch        16
-Section 1: Joint Meetings of the Association Legislative Bodies        16
-A. Calling Joint Meetings        16
-B. Quorum for Joint Meetings        16
-C. Presiding Officer        16
-D. Rules of Order        16
-E. Voting        16
-Section 2: Joint Legislative Committees        16
-Section 3: Nominations Commission        17
-A. Composition        17
-B. Officers        17
-C. Meetings        18
-D. Nominations        18
-E. Terms of the Representatives of the Association        19
-F. Interim Nominations Commission        20
-Article III: Executive Branch        21
-Section 1: President and Vice-President        21
-A. Duties of the President and Vice-President        21
-B. State of the Association Address        21
-C. Association Annual Report        21
-D. Committees        21
-Section 2: University Committee Representatives        22
-Section 3: Vacancies        22
-A. Resignation        22
-B. Disqualification        22
-Section 4: Executive Committee        22
-Section 5: Transition.        23
-Section 6: Discretionary Spending        23
-Section 7: Compensation of Cabinet Positions        23
-Article IV: Judicial Branch        24
-Section 1: General        24
-A. By-Laws        24
-B. Definitions        24
-Section 2: Council Members, Officers, and Staff        24
-A. Definition        24
-B. Vacancies        24
-C. Salary        25
-D. Secretary        25
-Section 3: Timing of Review        25
-Section 4: Judicial Advocates        25
-Section 5: Opinions of the Council        25
-A. Basis of an Opinion        25
-B. Delivery of Documentation        25
-Article V: Elections        27
-Section 1: General        27
-A. Types of Election        27
-B. Jurisdiction        27
-C. Times of Election        27
-D. Calling of Elections        27
-E. Charge of the Commission        28
-F. Election Timetable        29
-G. Election Surcharge        29
-H. Election Budget        29
-Section 2: Elections Officers        30
-A. General        30
-B. Composition of the Commission        30
-C. Meetings of the Commission        32
-E. Salary Disbursement        32
-Section 3: Placement of Issues on the Ballot        33
-Section 4: Campaign Regulations        33
-A. Slate/Candidate Registration        33
-B. Campaign Budget and Spending Audits        35
-C. Violations of Campaign Regulations        35
-D. Additional Campaign Policies        36
-Section 5: Elections Handbook        36
-Section 6: Ballots        36
-Section 7: Voting        36
-Section 8: Tabulation of Results        36
-A. Tabulation Procedure for Presidential Nomination and Election        36
-B. Tabulation of Legislative Elections        37
-C. Resolution of Conflicts        37
-Section 9: Report of Election Results        37
-Section 10: Invalidation of Election Results        38
-A. Definitions        38
-B. Grounds for Invalidation        39
-C. Procedures for Invalidation        39
-D. Invalidation for Unforeseen Circumstances        40
-E. Calling New Elections        40
-Section 11: Public Financing for Executive Elections        40
-A. General        40
-B. Appropriation of Funds and Campaign Expenses        40
-C. Enforcement and the Disbursement of Funds        41
-Article VI: Finances        42
-Section 1: General        42
-A. Financial Policies        42
-B. Funding Policies        42
-C. Freedom of Information        42
-D. Financial Organization        43
-E. Financial Manager Selection        43
-F. Assistant Financial Manager        46
-G. Fiscal Year        46
-Section 2: Association Operating Budget        46
-A. General        46
-B. Budget Process and Timetable        47
-C. Budgetary Authority        48
-D. Determination of Expendable Income        49
-E. Indirect Cost Recovery        50
-F. Income Smoothing        50
-Section 3: Project and Capital Budgets        50
-A. Service Projects        50
-B. Capital Budget        51
-Section 4: Financial Policy and Investments        51
-A. General        51
-B. Signature Power        52
-C. Reporting        52
-Section 5: Contracts, Agreements, and Borrowing        52
-A. Borrowing        52
-B. Contracts and Agreements        52
-C. Consideration by the Association Legislative Bodies        53
-Section 6: Students' Organizations Fund (SOF)        53
-A. Operating Rules        53
-B. Services Provided        53
-Section 7: General and Special Fees        53
-A. General Provisions        53
-B. Special Fees        58
-C. Joint Fees        58
-D. Annual Grants        58
-E. General Fees, Standard, and Quick Grants        58
-F. Refunds        59
-G. Enforcement        60
-Section 8: The Three-Year Plan        61
-Article VII: Stanford Student Enterprises        62
-Article VIII: Service Organizations        63
-Section 1: General        63
-A. Service Organization Mandate        63
-B. Availability of Services        63
-C. Funding        63
-D. Definitions        63
-E. Authority        63
-F. Meetings        64
-Section 2: Separate Service Projects and Organizations        64
-Section 3: Joint Service Projects        64
-A. Association Need        64
-B. Responsibility        65
-C. Budget        65
-D. Legislative Authority        65
-E. Officers and Governance        65
-F. Service Project Policies and Standing Rules        69
-Section 4: Joint Service Partnerships        69
-A. Authority        69
-B. Officers and Governance        69
-C. Terms and Concepts        69
-Section 6: Legal Counseling Office Policy Board        69
-A. Definitions        69
-B. Charge        69
-C. Officers        70
-D. Governance        70
-E. Office Budget        71
-F. Office Manager        72
-G. Grievances        72
-H. Interaction with the Association Legislative Bodies        72
-I. Access to Information        73
-Article X: ASSU Parliamentarian        74
-Section 1: Duties        74
-A. Meeting Attendance        74
-B. Governing Documents and Legislative Catalog        74
-C. Changes to Governing Documents        74
-D. Presentation of Documents        75
-Section 2: Nomination and Confirmation        75
-A. ASSU Parliamentarian Nomination Committee        75
-B. Meetings        75
-C. Confirmation of Nominee        75
-Appendix I: Policies of the Association Elections        76
-Section 1: General        76
-A. Times of Elections        76
-B. Election Timetable        76
-Section 2: Election Issues        76
-A. General        76
-B. Coterminal Students        78
-C. Presidential Slates        78
-D. General Fee Issues        78
-E. Ballot Measures        78
-Section 3: Placement of Issues on the Ballot        78
-A. General        78
-B. Declaration of Intent        79
-C. Petitions        79
-E. Special Fee Requests        85
-F. General Fee Issues        91
-G. Ballot Measures        91
-Section 4: Elections Handbook        91
-A. General        91
-B. Contents        92
-C. Layout        96
-D. Distribution        96
-Section 5: Ballots        96
-A. Ballot        96
-B. Contents        96
-C. Ballot Security        99
-Section 6: Voting        99
-A. Method        99
-B. Start of Polling        100
-C. Voter Qualifications        100
-D. Voting from an unattended computer        100
-E. Closing of the Polls        100
-Section 7: Tabulation of Results        101
-A. General        101
-B. Absentee Ballots        101
-C. Write-in Votes        101
-D. Final Tally        101
-Appendix II: Association Financial Policies        103
-Appendix III: Revision History        105
-Section 1: 1998-1999 Session        105
-Section 2: 1999-2000 Session        105
-Section 3: 2000-2001 Session        105
-Section 4: 2001-2002 Session        105
-Section 5: 2002-2003 Session        105
-Section 6: 2003-2004 Session        105
-Section 7: 2004-2005 Session        106
-Section 8: 2005-2006 Session        107
-Section 9: 2006-2007 Session        109
-Section 10: 2007-2008 Session        110
-Section 11: 2008-2009 Session        110
-Section 12: 2009-2010 Session        110
-Section 13: 2010-2011 Session        110
-Section 14: 2011-2012 Session        111
-Section 15: 2013-2014 Session        111
-
-
-
-
-
-
-________________
-Article I: General
-Section 1: Definitions
-1. For the remainder of these By-Laws, the Undergraduate Senate shall be abbreviated US.
-2. The Association legislative bodies shall be the US and GSC.
-3. References to the Senate by any internal or external document, without specifically referring to the Undergraduate Senate, shall be construed as the Association legislative bodies.
-4. The undergraduate population shall be those members of the Association who are registered as undergraduates, as well as those coterminal students who choose to be considered as undergraduates.
-5. The graduate population shall be all members of the Association in graduate or professional degree programs, as well as those coterminal students who choose to be considered as graduate students.
-6. An Undergraduate Senate agency shall refer to any administrative unit under the sole control of the Undergraduate Senate.
-7. An Association agency shall refer to any administrative unit under the joint control of the US and GSC.
-8. A joint Association entity shall refer to any body of the Association that affects both the graduate and undergraduate populations. This shall not include the US and GSC, considered as separate legislative bodies.
-9. The elected members of the US shall be the fifteen individuals elected by the undergraduate district.
-10. The voting membership of the US shall consist of the elected members plus the Vice President of the Association.
-11. The membership of the US shall be the voting members and all ex-officio members of the US.
-12. An undergraduate student organization shall refer to any student organization whose membership and/or audience is drawn substantially from the undergraduate population.
-13. A graduate student organization shall refer to any student organization whose membership and/or audience is drawn substantially from the graduate population.
-14. Elected members of the GSC shall be those who were selected in either a special or general Association election.
-15. A member of the GSC shall be any member of the graduate population present at a GSC meeting.
-16. Unless otherwise specified, a vote of the GSC shall be a vote by voting members of the GSC only.
-17. The term ex-officio as used by any internal document, including the Constitution and all By-Laws, shall be construed as meaning "non-voting."
-18. The executive officers of the Association shall consist of the President, the Vice-President, the Chair of the US, the Deputy Chair of the US, the Chair of the GSC, the Financial Officer of the GSC, the Chair of the Constitutional Council, and the Financial Manager. The officers of the Association shall consist of the executive officers plus the members of the US, the voting members of the GSC, and the members of the Constitutional Council.
-Section 2: General Approval Requirements
-Unless otherwise specified in the Constitution or these By-Laws, for approval requirements the relevant Association legislative bodies shall be: 
-1. The US, for those matters involving or affecting only members of the undergraduate population. 
-2. The GSC, for those matters involving or affecting only members of the graduate population. 
-3. Both the US and the GSC, for those matters involving or affecting members of both the graduate and undergraduate populations.
-Section 3: Registered Students
-The ASSU recognizes that only  the University Registrar may determine who is a registered student. The ASSU shall grant membership accordingly to those documented by the Registrar. Postdocs shall not be considered members of the ASSU.
-Section 4: Calendar
-A. Opening of the Quarter
-1. The first day of the quarter shall be defined as the first day of registration. In counting days from the opening of the quarter, all days, including Saturdays, Sundays, and holidays, shall be included.
-B. End of the Quarter
-The last day of the quarter shall be defined as the last day on which final examinations shall be scheduled. In counting days from the end of the quarter, all days, including Saturdays, Sundays, and holidays, shall be included.
 Section 5: Non-Discrimination Statement
 In undertaking any authority granted to it by the Constitution of the Associated Students of Stanford University, these By-Laws, the US By-Laws, or the GSC By-Laws, the US, the GSC, the Presidency, the Constitutional Council, and all other Agencies, Service Organizations, and Committees of the Association, shall not discriminate against any individual or organization on account of race, gender, gender identity, socioeconomic status, religion, ethnicity, religious beliefs (or lack thereof), nationality, national origin, sexual orientation, veteran status, physical or mental ability, or any other characteristic protected by applicable law or the University’s non-discrimination policy.
 Section 6: Precedence of the Association By-Laws
@@ -404,29 +143,6 @@ F. Interim Nominations Commission
 2. Interim members or Chairs of the Nominations Commission take office at a time specified by the Executive Committee and serve until a date specified by the Executive Committee or when the member being replaced becomes available again, whichever comes sooner. An interim member of the Nominations Commission must be approved at the first meeting of the each legislative body following their nomination unless their term has already expired. Once an interim member of the Nominations Commission has been rejected by a legislative body, that person may not be nominated as an interim member without approval by that legislative body.
 3. Any nominations made by a Nominations Commission with interim members shall be so noted when the nomination is submitted to a legislative body for approval.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Article III: Executive Branch
 Section 1: President and Vice-President
 A. Duties of the President and Vice-President
@@ -469,22 +185,6 @@ Section 7: Compensation of Cabinet Positions
 2. For compensation of positions other than chief of staff, the compensation must be defined before an individual can be nominated to the position. The bill to define compensation must contain specific goals and the specific compensation. Majority approval of both legislative bodies is required to pass the bill. Compensation for positions expire at the end of a President’s term.
 3. At the end of the fall quarter, the executives must submit a brief progress report on the stated goals.
 4. At the beginning of the winter quarter, both legislative bodies must reauthorize compensation.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Article IV: Judicial Branch
@@ -1478,12 +1178,6 @@ Appendix II: Association Financial Policies
 8. A specification of what information held by Stanford Student Enterprises may be considered proprietary. Proprietary information shall be available to the President or any member of the Association legislative bodies upon request, but may not be more widely released without the consent of the Board of Directors or its designee.
 1. Copies of the policies specified above, as well as annual budgets indicating the overall revenues and expenses of individual business projects and the amount contributed by Stanford Student Enterprises to the Association endowment, shall be provided by the Board of Directors of Stanford Student Enterprises (or its designee) to the President or any member of the Association legislative bodies upon request. Any proprietary business information or employee information contained within these policies or budgets may not be more widely released without the consent of the Board of Directors or its designee.
 2. Each year during the Autumn Quarter, the Financial Manager shall publish the texts of the policies specified above, and shall distribute copies to the Association legislative bodies.
-
-
-
-
-
-
 
 
 ________________

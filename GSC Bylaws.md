@@ -1,36 +1,6 @@
 ﻿Bylaws of the Graduate Student Council
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 © 2013 Board of Trustees of the Leland Stanford Junior University. All Rights Reserved. Printed  in 2013 by the Associated Students of Stanford University Stanford, California 94305 USA
 These Bylaws were first written more or less from scratch over the course of winter and spring quarters of 1999
 These Bylaws were updated on January 4, 2013, to include all changes up until then. Sjoerd A.L. de Ridder, GSC Parliamentarian, 2012-2013

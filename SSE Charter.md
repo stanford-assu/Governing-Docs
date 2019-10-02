@@ -1,14 +1,10 @@
-﻿CORPORATE CHARTER OF 
-STANFORD STUDENT ENTERPRISES
-l
-ARTICLE 1
-FORMATION OF STANFORD STUDENT ENTERPRISES
-1.1 Approval by the Senate of the Association. This Charter is effective as of the date specified in the resolution approving this Charter (“To Secure the Long-term Viability of the Association”) of the Senate of The Associated Students of Stanford University (the “Association”).
-1.2 Formation of Stanford Student Enterprises. Stanford Student Enterprises (the “Company”) is hereby established.
+﻿# CORPORATE CHARTER OF STANFORD STUDENT ENTERPRISES
 
+1. FORMATION OF STANFORD STUDENT ENTERPRISES
+	1. Approval by the Senate of the Association. This Charter is effective as of the date specified in the resolution approving this Charter (“To Secure the Long-term Viability of the Association”) of the Senate of The Associated Students of Stanford University (the “Association”).
+	2. Formation of Stanford Student Enterprises. Stanford Student Enterprises (the “Company”) is hereby established.
 
-ARTICLE 2
-MISSION AND AUTHORITY
+2. MISSION AND AUTHORITY
 2.1 Purpose. The purposes of the Company are: (i) to manage the financial assets and business enterprises of the Associated Students of Stanford University (ASSU) and its affiliates in an effective and professional manner (ii) to recruit and retain the best possible leadership and professional staff for such management activities, and (iii) to engage a Board of Directors composed of persons with appropriate business and management skills in support of such objectives.
 2.2 General Authority. The Company is authorized and empowered, on behalf of the ASSU, to enter into contracts, make investments and perform all related business functions in accordance with this Charter and in conformity with all policies and guidelines adopted by the ASSU and the Company’s Board of Directors. The Company’s management shall not take nor authorize the taking of any action not contemplated by this Charter, unless specifically approved by resolution of the Board of Directors or ASSU.
 
