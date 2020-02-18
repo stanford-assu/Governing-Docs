@@ -2,23 +2,23 @@
     "docs": [
         {
             "name": "Constitution",
-            "path": "Constitution.md"
+            "path": "Constitution.html"
         },
         {
             "name": "GSC Bylaws",
-            "path": "GSC Bylaws.md"
+            "path": "GSC Bylaws.html"
         },
         {
             "name": "UGS Bylaws",
-            "path": "UGS Bylaws.md"
+            "path": "UGS Bylaws.html"
         },
         {
             "name": "Joint Bylaws",
-            "path": "Joint Bylaws.md"
+            "path": "Joint Bylaws.html"
         },
         {
             "name": "SSE Charter",
-            "path": "SSE Charter.md"
+            "path": "SSE Charter.html"
         }
     ]
 }
